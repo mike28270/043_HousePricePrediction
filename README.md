@@ -6,7 +6,8 @@ The prices of the residential homes described by 79 variables (numerical data, c
 
 The data is from https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
 
-| Numerical data  | Categorical data with order | Categorical data without order |
+| Numerical data  | Categorical data with order | Categorical data 
+without order |
 | ------------- | ------------- |  ------------- |
 | - MSSubClass | - HeatingQC  | - MSZoning |
 | - LotArea | - ExterQual | - Street |
