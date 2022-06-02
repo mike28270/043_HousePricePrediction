@@ -4,9 +4,30 @@ Not only investing in properties is a relatively safe place to put money into if
 ## Data Description
 The prices of the residential homes described by 79 variables (numerical data, categorical data with order, and categorical data without order) is collected in Ames, Iowa. The dataset has 1460 rows. Our target is to accomplish house pricing prediction.
 
-The data is from https://www.kaggle.com/competitions/house-prices-advanced-regression- techniques/overview
+The data is from https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
 
 | Numerical data  | Categorical data with order | Categorical data without order |
 | ------------- | ------------- |  ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
+| - MSSubClass • LotArea
+• OverallQual • OverallCond • YearBuilt
+• YearRemodAdd • MasVnrArea
+• BsmtFinSF1
+• BsmtFinSF2
+• BsmtUnfSF
+• TotalBsmtSF
+• 1stFlrSF
+• 2ndFlrSF
+• LowQualFinSF • GrLivArea
+• BsmtFullBath • BsmtHalfBath • FullBath
+• HalfBath
+• BedroomAbvGr • KitchenAbvGr • TotRmsAbvGrd • Fireplaces
+• GarageYrBlt
+• GarageCars
+• GarageArea
+• WoodDeckSF • OpenPorchSF • EnclosedPorch • 3SsnPorch
+• ScreenPorch
+• PoolArea
+• MiscVal
+• MoSold
+• YrSold  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
