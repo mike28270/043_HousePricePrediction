@@ -8,38 +8,38 @@ The data is from https://www.kaggle.com/competitions/house-prices-advanced-regre
 
 | Numerical data  | Categorical data with order | Categorical data without order |
 | ------------- | ------------- |  ------------- |
-| - MSSubClass | HeatingQC  | asd  | asffa  | asdfa  |
-| - LotArea |
-| - OverallQual |
-| - OverallCond |
-| - YearBuilt |
-| - YearRemodAdd |
-| - MasVnrArea |
-| - BsmtFinSF1 |
-| - BsmtFinSF2 |
-| - BsmtUnfSF |
-| - TotalBsmtSF |
-| - 1stFlrSF |
-| - 2ndFlrSF |
-| - LowQualFinSF
-| - GrLivArea
-| - BsmtFullBath
-| - BsmtHalfBath
-| - FullBath
-| - HalfBath
-| - BedroomAbvGr
-| - KitchenAbvGr
-| - TotRmsAbvGrd
-| - Fireplaces
-| - GarageYrBlt
-| - GarageCars
-| - GarageArea
-| - WoodDeckSF
-| - OpenPorchSF
-| - EnclosedPorch
-| - 3SsnPorch
-| - ScreenPorch
-| - PoolArea
-| - MiscVal
-| - MoSold
-| - YrSold  | Content Cell  | Content Cell  |
+| - MSSubClass | - HeatingQC  | - MSZoning |
+| - LotArea | - ExterQual | - Street |
+| - OverallQual | - ExterCond | - Alley |
+| - OverallCond | - BsmtQual | - LotShape |
+| - YearBuilt | - BsmtCond | - LandContour |
+| - YearRemodAdd | - HeatingQC | - Utilities |
+| - MasVnrArea | - KitchenQual | - LotConfig |
+| - BsmtFinSF1 | - FireplaceQu | - LandSlope |
+| - BsmtFinSF2 | - GarageQual | - Neighborhood |
+| - BsmtUnfSF | - GarageCond | - Condition1 |
+| - TotalBsmtSF | - PoolQC | - Condition2 |
+| - 1stFlrSF | - BsmtExposure | - BldgType |
+| - 2ndFlrSF | | - HouseStyle |
+| - LowQualFinSF | | - RoofStyle |
+| - GrLivArea | | - RoofMatl |
+| - BsmtFullBath | | - Exterior1st |
+| - BsmtHalfBath | | - Exterior2nd |
+| - FullBath | | - MasVnrType |
+| - HalfBath | | - Foundation |
+| - BedroomAbvGr | | - BsmtFinType1 |
+| - KitchenAbvGr | | - BsmtFinType2 |
+| - TotRmsAbvGrd | | - Heating |
+| - Fireplaces | | - CentralAir |
+| - GarageYrBlt | | - Electrical |
+| - GarageCars | | - Functional |
+| - GarageArea | | - GarageType |
+| - WoodDeckSF | | - GarageFinish |
+| - OpenPorchSF | | - PavedDrive |
+| - EnclosedPorch | | - Fence |
+| - 3SsnPorch | | - MiscFeature |
+| - ScreenPorch | | - SaleType |
+| - PoolArea | | - SaleCondition |
+| - MiscVal | | |
+| - MoSold | | |
+| - YrSold | | |
