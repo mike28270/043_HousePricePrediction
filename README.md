@@ -8,26 +8,38 @@ The data is from https://www.kaggle.com/competitions/house-prices-advanced-regre
 
 | Numerical data  | Categorical data with order | Categorical data without order |
 | ------------- | ------------- |  ------------- |
-| - MSSubClass • LotArea
-• OverallQual • OverallCond • YearBuilt
-• YearRemodAdd • MasVnrArea
-• BsmtFinSF1
-• BsmtFinSF2
-• BsmtUnfSF
-• TotalBsmtSF
-• 1stFlrSF
-• 2ndFlrSF
-• LowQualFinSF • GrLivArea
-• BsmtFullBath • BsmtHalfBath • FullBath
-• HalfBath
-• BedroomAbvGr • KitchenAbvGr • TotRmsAbvGrd • Fireplaces
-• GarageYrBlt
-• GarageCars
-• GarageArea
-• WoodDeckSF • OpenPorchSF • EnclosedPorch • 3SsnPorch
-• ScreenPorch
-• PoolArea
-• MiscVal
-• MoSold
-• YrSold  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| - MSSubClass |
+| - LotArea
+| - OverallQual
+| - OverallCond
+| - YearBuilt
+| - YearRemodAdd
+| - MasVnrArea
+| - BsmtFinSF1
+| - BsmtFinSF2
+| - BsmtUnfSF
+| - TotalBsmtSF
+| - 1stFlrSF
+| - 2ndFlrSF
+| - LowQualFinSF
+| - GrLivArea
+| - BsmtFullBath
+| - BsmtHalfBath
+| - FullBath
+| - HalfBath
+| - BedroomAbvGr
+| - KitchenAbvGr
+| - TotRmsAbvGrd
+| - Fireplaces
+| - GarageYrBlt
+| - GarageCars
+| - GarageArea
+| - WoodDeckSF
+| - OpenPorchSF
+| - EnclosedPorch
+| - 3SsnPorch
+| - ScreenPorch
+| - PoolArea
+| - MiscVal
+| - MoSold
+| - YrSold  | Content Cell  | Content Cell  |
