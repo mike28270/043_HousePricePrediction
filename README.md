@@ -43,3 +43,5 @@ The data is from https://www.kaggle.com/competitions/house-prices-advanced-regre
 | - MiscVal | | |
 | - MoSold | | |
 | - YrSold | | |
+
+# Please see the notebook in the following link [link]
