@@ -44,4 +44,4 @@ The data is from https://www.kaggle.com/competitions/house-prices-advanced-regre
 | - MoSold | | |
 | - YrSold | | |
 
-# Please see the notebook in the following link [link] [/psm_final-2022_KritkornSupyen_202205151824.ipynb]
+# Please see the notebook in the following link [link] (/psm_final-2022_KritkornSupyen_202205151824.ipynb)
